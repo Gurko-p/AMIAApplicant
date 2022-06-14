@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AMIAApplicant\\AMIAApplicant\\AMIAApplicant.csproj",
+      "projectUniqueName": "D:\\Abiturient\\AMIAApplicant\\AMIAApplicant\\AMIAApplicant.csproj",
       "projectName": "AMIAApplicant",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AMIAApplicant\\AMIAApplicant\\AMIAApplicant.csproj",
+      "projectPath": "D:\\Abiturient\\AMIAApplicant\\AMIAApplicant\\AMIAApplicant.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AMIAApplicant\\AMIAApplicant\\obj\\",
+      "outputPath": "D:\\Abiturient\\AMIAApplicant\\AMIAApplicant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
