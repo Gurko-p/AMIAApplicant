@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AMIAApplicant.Models
 {
-    public class Enrollee // абитуриент
+    public class Applicant // абитуриент
     {
         public long Id { get; set; }
         public string FirstName { get; set; } // Имя
@@ -66,7 +66,7 @@ namespace AMIAApplicant.Models
         public ForeignLanguage ForeignLanguage { get; set; }
 
         public short KindOfAducationId { get; set; } // id вида образования
-        public KindOfAducation KindOfAducation { get; set; }
+        public KindOfEducation KindOfEducation { get; set; }
 
         public short MaritalStatusId { get; set; } // id семейного положения
         public MaritalStatus MaritalStatus { get; set; }
